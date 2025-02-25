@@ -1,0 +1,44 @@
+body {
+    background: black;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 600px;
+}
+div.container {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 15px;
+    background: white;
+}
+div.header {
+    justify-content: space-between;
+    display: flex;
+    width: 600px;
+    height: 50px;
+    align-items: center;
+}
+div.footer {
+    display: inline-block;
+    width: 600px;
+    height: auto;
+}
+div.icons {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    height: 30px;
+}
+div.text {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+i {
+    font-size: 30px;
+    padding: 0 10px;
+}
+div.HTML {
+    display: flex;
+    align-items: center;
+}
